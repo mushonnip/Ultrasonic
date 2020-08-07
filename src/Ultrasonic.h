@@ -25,6 +25,7 @@
  */
 #define CM 28
 #define INC 71
+#define MM 3
 
 class Ultrasonic {
   public:
